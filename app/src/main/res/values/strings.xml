@@ -3,4 +3,16 @@
     <string name="change_city">Change city</string>
     <string name="change_city_dialog_title">Change city</string>
     <string name="change_city_dialog_ok">change</string>
+    <string name="place_not_found">City not found</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="open_weather_api_key">a754234038846bfe0f57690e3298dc5b</string>
 </resources>
