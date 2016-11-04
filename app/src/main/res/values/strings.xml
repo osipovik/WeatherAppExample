@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Weather App Example</string>
+    <string name="change_city">Change city</string>
+    <string name="change_city_dialog_title">Change city</string>
+    <string name="change_city_dialog_ok">change</string>
 </resources>
